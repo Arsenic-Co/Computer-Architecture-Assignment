@@ -137,8 +137,9 @@ The `output.txt` file contains the captured output of both programs for verifica
 
 ## Author
 
-**Name:**K V VIVEK
-**USN:**1NH25AI022-T  
+**Name:** K V VIVEK
+
+**USN:** 1NH25AI022-T  
 **Course:** Computer Architecture  
 **Course Code:** 25AIM34  
 **Semester / Section:** III B
